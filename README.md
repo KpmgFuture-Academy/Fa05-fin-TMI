@@ -15,5 +15,12 @@ KPMG Future Academy 5기 TMI팀 마지막 프로젝트
 - **발표** : 2025년 8월 9일
 
 ## 3. 팀 구성
-<img src="./readme_src/team.png" alt="Team" width="400"/>
+<img src="./readme_src/team.png" alt="Team" height="400"/>
+
+---------------------------------------
+
+# 서비스 개요
+<img src="./readme_src/service_intro.JPG" alt="intro"/>
+
+---------------------------------------
 
